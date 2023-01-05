@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "3981641445",
+    "firebase_url": "https://foodonclick-afe0d.firebaseio.com",
+    "project_id": "foodonclick-afe0d",
+    "storage_bucket": "foodonclick-afe0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3981641445:android:b84cc38497cdbf2c",
+        "android_client_info": {
+          "package_name": "com.example.foodonclick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3981641445-6khs4d6e2gq9djk0h72b4dr0b25dcoia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5lIJ8KpoOkTlSZFae3D6lO1gxZGKCCJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3981641445-6khs4d6e2gq9djk0h72b4dr0b25dcoia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
